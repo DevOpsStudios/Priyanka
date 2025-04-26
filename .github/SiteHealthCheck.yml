@@ -19,3 +19,4 @@ jobs:
             exit 1
           else
             echo "✅ LittlesLaw site is up (HTTP 200)"
+          fi  
